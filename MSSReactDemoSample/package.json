@@ -11,6 +11,7 @@
     "react-native": "0.41.2",
     "react-native-elements": "^0.12.2",
     "react-native-flexi-radio-button": "^0.2.1",
+    "react-native-icons": "^0.7.1",
     "react-native-material-ui": "^1.8.0",
     "react-native-router-flux": "^3.38.0",
     "react-native-select-multiple": "^1.0.4",
